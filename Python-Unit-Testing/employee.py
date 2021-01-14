@@ -1,7 +1,7 @@
 import requests
 
 
-class Employee:
+class Employee2:
     """A sample SampP y Employee class"""
 
     raise_amt = 1.05
